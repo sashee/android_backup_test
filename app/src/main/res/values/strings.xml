@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Backup Test</string>
+    <string name="datachanged_button">Call datachanged</string>
+    <string name="will_check_size_text">Will run size check on next backup:</string>
+    <string name="log_title_text">Logs:</string>
+    <string name="Clear_log_button_text">Clear log</string>
+    <string name="request_restore_btext">Request restore</string>
+    <string name="sizeTestNumText">Data#:</string>
+    <string name="size_test_data_amount">Byte#:</string>
+
+</resources>
